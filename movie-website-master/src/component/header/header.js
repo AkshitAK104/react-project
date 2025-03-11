@@ -20,7 +20,7 @@ setTerm("");
     <div className='header'>
       
       <div className='logo'>
-      <Link to= "/"> Movie App</Link>
+      <Link to= "/"> AK MOVIEZ</Link>
       </div>
       <div className='search-bar'>
         <form onSubmit={submitHandler}>
